@@ -4,13 +4,25 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2026/08/30/hello-world/"/>
-      <url>/2026/08/30/hello-world/</url>
+      <title>第7次搭建博客</title>
+      <link href="/2026/08/30/20260902/"/>
+      <url>/2026/08/30/20260902/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>从2023年第一次接触星尘云的虚拟主机，我兴致勃勃地用Typecho框架搭建了人生中第一个真正属于自己的博客。那时什么都不懂，每一步都像在探路——装环境、改主题、写第一篇日志，连页面加载慢一点都觉得是仪式感的一部分。可惜好景不长，一次数据迁移操作失误，整站内容瞬间蒸发，连后悔的机会都没给我留下。</p><p>后来我像着了魔一样，反复建站、反复崩塌。从Typecho到WordPress，再到尝试静态化的Astro，几乎把主流的博客方案都折腾了一遍。每一次重来都告诉自己“这次一定好好备份”，可每一次都因为各种各样的原因——服务器过期、配置冲突、本地文件遗失——让心血付诸东流。最离谱的一次，是电脑换新时忘了把整个博客目录拷出来，等想起来的时候，旧硬盘已经格式化了。</p><p>这些“翻车”经历让我慢慢意识到，与其追求功能繁多的动态站点，不如回归内容本身。于是最后选择了Hexo，简单、可控、纯静态，所有源文件都攥在自己手里。事实证明，这个选择让我安心了许多。</p><p>而为了让这一版不再“短命”，我第一次掏钱买了.top的一级域名，把它指向新生的博客站点。输下域名、看到页面正常加载的那几秒，竟然有一种久违的踏实感</p><p>话不多说，这一篇算是一个重新开张的交代。下一篇文章，我们认认真真聊点有趣的。</p>]]></content>
       
       
+      <categories>
+          
+          <category> 闲聊 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 闲聊 </tag>
+            
+        </tags>
       
     </entry>
     
